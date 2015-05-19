@@ -1,0 +1,6 @@
+C:\Users\Katesh\Desktop\ITPlace\ITPlace\bin\Debug\ITPlace.exe.config
+C:\Users\Katesh\Desktop\ITPlace\ITPlace\bin\Debug\ITPlace.exe
+C:\Users\Katesh\Desktop\ITPlace\ITPlace\bin\Debug\ITPlace.pdb
+C:\Users\Katesh\Desktop\ITPlace\ITPlace\obj\Debug\ITPlace.csprojResolveAssemblyReference.cache
+C:\Users\Katesh\Desktop\ITPlace\ITPlace\obj\Debug\ITPlace.exe
+C:\Users\Katesh\Desktop\ITPlace\ITPlace\obj\Debug\ITPlace.pdb
